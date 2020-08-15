@@ -1,4 +1,4 @@
-# Projeto to teste tool to scan security of IAC
+# Projeto for teste tool to scan security of IAC
 
 ## Used https://github.com/fugue/regula
 ## Needed install opa
