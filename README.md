@@ -11,5 +11,5 @@ $ mv opa /usr/bin
 ```sh
 $ git clone https://github.com/fugue/regula
 $ cd regula
-$ ./bin/regula ~/tf_test_iac lib rules/aws/
+$ ./bin/regula ~/tf_sec_scan_iac lib rules/aws/
 ```
